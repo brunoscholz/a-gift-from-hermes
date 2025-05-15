@@ -1,0 +1,21 @@
+{
+  "level_id": "001",
+  "tilemap": [
+    "##########",
+    "#........#",
+    "#...@....#",
+    "#....S...#",
+    "##########"
+  ],
+  "metadata": {
+    "theme": "cave",
+    "bgm": "silence"
+  },
+  "objects": {
+    "A": {
+      "type": "eidolon_node",
+      "phrase_id": "echo_01",
+      "position": [4, 2]
+    }
+  }
+}
