@@ -1,0 +1,14 @@
+{
+  "levels": [
+    {
+      "id": "01",
+      "name": "Hall of Echoes",
+      "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/master/Levels/level_001.json"
+    },
+    {
+      "id": "02",
+      "name": "Shrine of Silence",
+      "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/master/Levels/level_002.json"
+    }
+  ]
+}
