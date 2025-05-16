@@ -1,5 +1,6 @@
 {
-  "level_id": "002",
+  "id": 2,
+  "level_id": "level_002",
   "tilemap": [
     "##########",
     "#........#",
@@ -11,11 +12,12 @@
     "theme": "cave",
     "bgm": "silence"
   },
-  "objects": {
-    "A": {
+  "objects": [
+    {
+      "id": "A",
       "type": "eidolon_node",
       "phrase_id": "echo_01",
       "position": [4, 2]
     }
-  }
+  ]
 }
