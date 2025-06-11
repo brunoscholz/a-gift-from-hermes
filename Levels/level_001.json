@@ -54,7 +54,7 @@
       "id": "cer01",
       "type": "warden",
       "position": [18, 47],
-      "waypoints": [
+      "patrolPoints": [
         [18, 10],
         [18, 47]
       ],
@@ -65,7 +65,7 @@
       "id": "cer02",
       "type": "warden",
       "position": [7, 24],
-      "waypoints": [
+      "patrolPoints": [
         [7, 24],
         [9, 24],
         [9, 28],
@@ -78,9 +78,12 @@
       "id": "cer03",
       "type": "warden",
       "position": [5, 48],
-      "waypoints": [],
+      "patrolPoints": [],
       "speed": 2,
-      "behavior": "Hunt"
+      "behavior": "Hunt",
+      "detectionRange": "",
+      "dashSpeed": "",
+      "dashDuration": ""
     }
   ]
 }
