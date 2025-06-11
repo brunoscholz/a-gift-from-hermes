@@ -30,10 +30,25 @@
   ],
   "objects": [
     {
-      "id": "A",
-      "type": "eidolon_node",
-      "phrase_id": "echo_01",
-      "position": [4, 2]
+      "id": "wh01",
+      "type": "wormhole",
+      "position": { "x": 20, "y": 11 },
+      "range": {
+        "shape": "box",
+        "width": 10,
+        "height": 1,
+        "direction": "horizontal"
+      },
+      "targetTiles": ["p"],
+      "cycle": ["Blocker", "Spines", "Variant"],
+      "interval": 6,
+      "stageDurations": {
+        "push": 1.5,
+        "restA": 0.75,
+        "pull": 1.5,
+        "restB": 0.75
+      },
+      "affects": ["Soul", "platforms"]
     }
   ]
 }
