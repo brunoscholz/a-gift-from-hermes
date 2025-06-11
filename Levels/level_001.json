@@ -28,7 +28,8 @@
     { "key": "bgm", "value": "silence" },
     { "key": "author", "value": "adonis" }
   ],
-  "objects": [
+  "objects": [],
+  "voids": [
     {
       "id": "wh01",
       "type": "void",
@@ -49,7 +50,9 @@
         "restB": 0.75
       },
       "affects": ["Soul", "platforms"]
-    },
+    }
+  ],
+  "wardens": [
     {
       "id": "cer01",
       "type": "warden",
