@@ -58,8 +58,12 @@
       "type": "warden",
       "position": [18, 47],
       "patrolPoints": [
-        [18, 10],
-        [18, 47]
+        {
+          "position": [18, 10]
+        },
+        {
+          "position": [18, 47]
+        }
       ],
       "speed": 2,
       "behavior": "Patrol"
@@ -69,10 +73,18 @@
       "type": "warden",
       "position": [7, 24],
       "patrolPoints": [
-        [7, 24],
-        [9, 24],
-        [9, 28],
-        [7, 28]
+        {
+          "position": [7, 24]
+        },
+        {
+          "position": [9, 24]
+        },
+        {
+          "position": [9, 28]
+        },
+        {
+          "position": [7, 28]
+        }
       ],
       "speed": 3,
       "behavior": "Patrol"
