@@ -31,8 +31,8 @@
   "objects": [
     {
       "id": "wh01",
-      "type": "wormhole",
-      "position": { "x": 20, "y": 11 },
+      "type": "void",
+      "position": [20, 11],
       "range": {
         "shape": "box",
         "width": 10,
@@ -49,6 +49,38 @@
         "restB": 0.75
       },
       "affects": ["Soul", "platforms"]
+    },
+    {
+      "id": "cer01",
+      "type": "warden",
+      "position": [18, 47],
+      "waypoints": [
+        [18, 10],
+        [18, 47]
+      ],
+      "speed": 2,
+      "behavior": "Patrol"
+    },
+    {
+      "id": "cer02",
+      "type": "warden",
+      "position": [7, 24],
+      "waypoints": [
+        [7, 24],
+        [9, 24],
+        [9, 28],
+        [7, 28]
+      ],
+      "speed": 3,
+      "behavior": "Patrol"
+    },
+    {
+      "id": "cer03",
+      "type": "warden",
+      "position": [5, 48],
+      "waypoints": [],
+      "speed": 2,
+      "behavior": "Hunt"
     }
   ]
 }
