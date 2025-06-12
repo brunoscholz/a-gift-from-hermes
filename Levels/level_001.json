@@ -56,13 +56,13 @@
     {
       "id": "cer01",
       "type": "warden",
-      "position": [18, 47],
+      "position": [47, 18],
       "patrolPoints": [
         {
-          "position": [18, 10]
+          "position": [10, 18]
         },
         {
-          "position": [18, 47]
+          "position": [47, 18]
         }
       ],
       "speed": 2,
@@ -71,19 +71,19 @@
     {
       "id": "cer02",
       "type": "warden",
-      "position": [7, 24],
+      "position": [24, 7],
       "patrolPoints": [
         {
-          "position": [7, 24]
+          "position": [24, 7]
         },
         {
-          "position": [9, 24]
+          "position": [24, 9]
         },
         {
-          "position": [9, 28]
+          "position": [28, 9]
         },
         {
-          "position": [7, 28]
+          "position": [28, 7]
         }
       ],
       "speed": 3,
@@ -92,7 +92,7 @@
     {
       "id": "cer03",
       "type": "warden",
-      "position": [5, 48],
+      "position": [48, 5],
       "patrolPoints": [],
       "speed": 2,
       "behavior": "Hunt",
