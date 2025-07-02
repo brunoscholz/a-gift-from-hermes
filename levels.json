@@ -1,8 +1,7 @@
 {
   "worlds": [
     {
-      "worldId": 1,
-      "displayName": "Tartarus",
+      "worldId": "Tartarus",
       "name": "Tartarus",
       "description": "",
       "levels": [
@@ -22,22 +21,19 @@
       ]
     },
     {
-      "worldId": 2,
-      "displayName": "Asphodel",
+      "worldId": "Asphodel",
       "name": "Asphodel Fields",
       "description": "",
       "levels": []
     },
     {
-      "worldId": 3,
-      "displayName": "Styx",
+      "worldId": "Styx",
       "name": "Styx River",
       "description": "",
       "levels": []
     },
     {
-      "worldId": 4,
-      "displayName": "Eurynomos",
+      "worldId": "Eurynomos",
       "name": "House of Eurynomos",
       "description": "",
       "levels": []
