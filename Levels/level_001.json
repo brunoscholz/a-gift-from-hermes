@@ -31,6 +31,7 @@
     { "key": "bgm", "value": "silence" }
   ],
   "objects": [],
+  "secrets":[],
   "voids": [
     {
       "id": "wh01",
