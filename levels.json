@@ -10,13 +10,14 @@
           "worldId": "Tartarus",
           "orderInWorld": 1,
           "name": "Hall of Echoes",
-          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/level_001.json"
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/tartarus-001.json"
         },
         {
-          "id": 2,
           "levelId": "tartarus-002",
+          "worldId": "Tartarus",
+          "orderInWorld": 2,
           "name": "Shrine of Silence",
-          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/level_002.json"
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/tartarus-002.json"
         }
       ]
     },
@@ -24,19 +25,64 @@
       "worldId": "Asphodel",
       "name": "Asphodel Fields",
       "description": "",
-      "levels": []
+      "levels": [
+        {
+          "levelId": "asphodel-001",
+          "worldId": "Asphodel",
+          "orderInWorld": 1,
+          "name": "Hall of Echoes",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/asphodel-001.json"
+        },
+        {
+          "levelId": "asphodel-002",
+          "worldId": "Asphodel",
+          "orderInWorld": 2,
+          "name": "Shrine of Silence",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/asphodel-002.json"
+        }
+      ]
     },
     {
       "worldId": "Styx",
       "name": "Styx River",
       "description": "",
-      "levels": []
+      "levels": [
+        {
+          "levelId": "styx-001",
+          "worldId": "Styx",
+          "orderInWorld": 1,
+          "name": "Hall of Echoes",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/styx-001.json"
+        },
+        {
+          "levelId": "styx-002",
+          "worldId": "Styx",
+          "orderInWorld": 2,
+          "name": "Shrine of Silence",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/styx-002.json"
+        }
+      ]
     },
     {
       "worldId": "Eurynomos",
       "name": "House of Eurynomos",
       "description": "",
-      "levels": []
+      "levels": [
+        {
+          "levelId": "eurynomos-001",
+          "worldId": "Eurynomos",
+          "orderInWorld": 1,
+          "name": "Hall of Echoes",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/eurynomos-001.json"
+        },
+        {
+          "levelId": "eurynomos-002",
+          "worldId": "Eurynomos",
+          "orderInWorld": 2,
+          "name": "Shrine of Silence",
+          "url": "https://raw.githubusercontent.com/brunoscholz/a-gift-from-hermes/refs/heads/master/Levels/eurynomos-002.json"
+        }
+      ]
     }
   ]
 }
