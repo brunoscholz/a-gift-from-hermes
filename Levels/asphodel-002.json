@@ -30,6 +30,7 @@
     { "key": "theme", "value": "cave" },
     { "key": "bgm", "value": "silence" }
   ],
+  "tips": [],
   "objects": [],
   "secrets":[],
   "voids": [
