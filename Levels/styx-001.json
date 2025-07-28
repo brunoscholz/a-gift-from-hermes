@@ -98,7 +98,7 @@
       "position": [48, 5],
       "patrolPoints": [],
       "speed": 2,
-      "behavior": "Hunt",
+      "behavior": "Guard",
       "detectionRange": "",
       "dashSpeed": "",
       "dashDuration": ""
